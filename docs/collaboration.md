@@ -1,7 +1,12 @@
 # Collaboration Guidelines
+
  Effective teamwork depends on continuous feedback and shared understanding.
- kljkljkljkkjklklkl 
+ 
 Collaboration in this project is intentionally simple so that the focus remains on learning version control
+ Collaboration requires clear communication and well-defined responsibilities.
+
+
+>>>>>>> 23a07ab9c5b9b883217a5c2e6627660f46c5189a
 When multiple people work on these documents, it is common for changes to overlap. Overlapping changes can lead to merge conflicts, which are a normal part of a collaborative workflow.
 
 The most important aspect of collaboration is communication. Comments in pull requests, documentation updates, and clear descriptions of changes all help maintain a shared understanding of the project.
